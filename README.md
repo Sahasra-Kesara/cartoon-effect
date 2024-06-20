@@ -1,3 +1,6 @@
+![original-to-cartoon](https://github.com/Sahasra-Kesara/cartoon-effect/assets/121740972/f43f797a-bf50-4298-b7bf-a7c421638d21)
+
+
 # Cartoon Effect Using Machine Learning
 
 This script uses machine learning and deep learning techniques to apply a cartoon effect to an image. It includes the following steps:
