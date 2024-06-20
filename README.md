@@ -1,5 +1,4 @@
 # Cartoon Effect Using Machine Learning
-================
 
 This script uses machine learning and deep learning techniques to apply a cartoon effect to an image. It includes the following steps:
 
@@ -23,13 +22,13 @@ To use this script, simply run it with the name of the image file you want to ca
 ```bash
 python cartoon.py cardiff_me.jpeg
 ```
-###Output
+#Output
 The script will display the original image and the cartoonized image. The cartoonized image will be displayed with a title indicating that it is the cartoonified image.
 
-###Requirements
+#Requirements
 - OpenCV
 - NumPy
 - Matplotlib
 
-###License
+#License
 This script is licensed under the MIT License.
